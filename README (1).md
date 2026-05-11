@@ -83,7 +83,7 @@ This project implements crowd counting using density map regression. The model t
 
 Download the trained model file (```crowd_counter.pth```) from Google Drive:
 
-**Download Link:** https://drive.google.com/file/d/1eNbohPZPNYxt2j5dZOIIftFr7cpHEPTO/view?usp=sharing
+**Download Link:** https://drive.google.com/file/d/1fxasCX2_zkZTd0X_LSEHDG3UFbR_7KNr/view?usp=drive_link
 
 ### Step 2: Upload Model to Google Colab
 
